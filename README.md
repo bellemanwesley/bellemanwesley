@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**bellemanwesley/bellemanwesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bellemanwesley/bellemanwesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Hi there, I'm [Wesley!](http://www.wkbonline.net/) 👋
 
@@ -11,14 +9,8 @@
 Hi, I'm Wesley Belleman, a full stack developer and security engineer.
 
 - 🔭 I’m currently working on [aigames](http://www.github.com/bellemanwesley/aigames)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Tensorflow
+- 🤔 I’m looking for help with Javascript asynchronous XHR
 
 **Languages and Tools:**  
 

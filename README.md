@@ -4,15 +4,13 @@
 ### Hi there, I'm [Wesley!](http://www.wkbonline.net/) 👋
 
 <br />
-<br />
 
 Hi, I'm Wesley Belleman, a full stack developer and security engineer.
 
 - 🔭 I’m currently working on [aigames](http://www.github.com/bellemanwesley/aigames)
 - 🌱 I’m currently learning Tensorflow
-- 🤔 I’m looking for help with Javascript asynchronous XHR
+- 🤔 I’m looking for help with Javascript asynchronous XHR and AWS Fargate
 
-<br />
 <br />
 
 **Languages and Tools:**  
@@ -26,8 +24,6 @@ Hi, I'm Wesley Belleman, a full stack developer and security engineer.
 <code><img height="20" src="https://www.smile.eu/sites/default/files/styles/picture_news_technology/public/2017-08/elastic.png"></code>
 
 <br />
-<br />
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bellemanwesley&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Wesley's github stats" />

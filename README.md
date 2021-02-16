@@ -11,6 +11,8 @@ Hi, I'm Wesley Belleman, a full stack developer and security engineer.
 - 🌱 I’m currently learning Tensorflow
 - 🤔 I’m looking for help with Javascript asynchronous XHR and AWS Fargate
 
+- [My PyPi Account](https://pypi.org/user/bellemanwesley/)
+
 <br />
 
 **Languages and Tools:**  

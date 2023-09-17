@@ -7,9 +7,9 @@
 
 Hi, I'm Wesley Belleman, a full stack developer and security engineer.
 
-- 🔭 I’m currently working on [aigames](http://www.github.com/bellemanwesley/aigames)
-- 🌱 I’m currently learning Tensorflow
-- 🤔 I’m looking for help with Javascript asynchronous XHR and AWS Fargate
+- 🔭 I’m currently working on [dns-attack](https://github.com/Evenstar-Security/dns-attack)
+- 🌱 I’m currently learning TypeScript
+- 🤔 I’m looking for help with Terraform on AWS
 
 - [My PyPi Profile](https://pypi.org/user/bellemanwesley/)
 - [My Docker Profile](https://hub.docker.com/u/bellemanwesley)

@@ -7,9 +7,9 @@
 
 Hi, I'm Wesley Belleman, a full stack developer and security engineer.
 
-- 🔭 I’m currently working on [dns-attack](https://github.com/Evenstar-Security/dns-attack)
-- 🌱 I’m currently learning TypeScript
-- 🤔 I’m looking for help with Firebase
+- 🔭 I’m currently working on [vitamova]([https://github.com/Evenstar-Security/dns-attack](https://github.com/WKBSoft/vitamova))
+- 🌱 I’m currently learning Django
+- 🤔 I’m looking for help with Custom User Models
 
 - [My PyPi Profile](https://pypi.org/user/bellemanwesley/)
 - [My Docker Profile](https://hub.docker.com/u/bellemanwesley)

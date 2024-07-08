@@ -7,7 +7,7 @@
 
 Hi, I'm Wesley Belleman, a full stack developer and security engineer.
 
-- 🔭 I’m currently working on [vitamova](https://github.com/Evenstar-Security/dns-attack](https://github.com/WKBSoft/vitamova)
+- 🔭 I’m currently working on [vitamova](https://github.com/Evenstar-Security/dns-attack](https://github.com/WKBSoft/vitamova/ )
 - 🌱 I’m currently learning Django
 - 🤔 I’m looking for help with Custom User Models
 

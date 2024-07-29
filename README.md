@@ -7,7 +7,7 @@
 
 Hi, I'm Wesley Belleman, a full stack developer and security engineer.
 
-- 🔭 I’m currently working on [Vitamova](https://github.com/WKBSoft/vitamova/)
+- 🔭 I’m currently working on [Vitamova](https://github.com/vitamova/vitamova/)
 - 🌱 I’m currently learning [Bootstrap](https://github.com/sponsors/twbs)
 - 🤔 I’m looking for help with Front End
 

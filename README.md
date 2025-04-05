@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm Wesley Belleman, a full stack developer and security engineer.
+Hi, I'm Wesley Belleman, a cybersecurity consultant. Sometimes I code in my free time.
 
 - 🔭 I’m currently working on [Vitamova](https://github.com/vitamova/vitamova/)
 - 🌱 I’m currently learning [Bootstrap](https://github.com/sponsors/twbs)
